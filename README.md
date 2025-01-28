@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi there, Gustavo!
 
-<!--
-**gustavodsroldao/gustavodsroldao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavodsroldao&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo" /> </p>
 
-Here are some ideas to get you started:
+### I am a systems development student in Brazil!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 📫 How to reach me gustavodsroldao@gmail.com;
+- ⚡ I'm currently learning Dart / Flutter;
+- 🔭 I'm always looking for new things to learn;
+- 💪 I’m looking to collaborate with other creators developers;
+
+**Contacts:**  
+<div>
+<a href="https://www.linkedin.com/in/gustavodasilveiraroldao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/gustavodasilveirasr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> 
+<a href="https://api.whatsapp.com/send?phone=5551980280868" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a> 
+</div>
+
+### Languages and Tools:
+
+(https://skillicons.dev/icons?i=dart, flutter, cs, )
+
+
+<br />
+<br />
+
+---
+
+<p align="center"> 📈 My GitHub Stats 📉 </p>
+
+<br />
+<br />
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustavodsroldao&show_icons=true&theme=gotham" alt="gustavo" />
+<br />
+  
+[instagram]: https://www.instagram.com/gustavodasilveirasr/
+[linkedin]: https://www.linkedin.com/in/gustavodasilveiraroldao/
