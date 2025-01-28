@@ -20,20 +20,10 @@
 
 ### Languages and Tools:
 
-(https://skillicons.dev/icons?i=dart, flutter, cs, )
+[![My Skills](https://skillicons.dev/icons?i=dart, flutter, cs)]
 
 
 <br />
-<br />
-
----
-
-<p align="center"> 📈 My GitHub Stats 📉 </p>
-
-<br />
-<br />
-
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustavodsroldao&show_icons=true&theme=gotham" alt="gustavo" />
 <br />
   
 [instagram]: https://www.instagram.com/gustavodasilveirasr/
