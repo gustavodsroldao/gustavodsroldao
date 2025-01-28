@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=dart, flutter, cs)]
+[![My Skills](https://skillicons.dev/icons?i=dart,cs,js,ts,flutter,next)](https://skillicons.dev)
 
 
 <br />
