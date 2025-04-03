@@ -18,7 +18,7 @@
 <a href="https://api.whatsapp.com/send?phone=5551980280868" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a> 
 </div>
 
-### Languages and Tools:
+### Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=dart,cs,js,ts,flutter,next)](https://skillicons.dev)
 
